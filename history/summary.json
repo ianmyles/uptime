@@ -4,9 +4,9 @@
     "url": "https://www.ianmyles.com",
     "icon": "https://favicons.githubusercontent.com/www.ianmyles.com",
     "slug": "ian-myles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 313,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2021-02-16": 0,
       "2021-02-02": 20
     }
   },

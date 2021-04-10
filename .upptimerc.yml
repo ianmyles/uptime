@@ -10,10 +10,6 @@ sites:
     url: https://www.cairde.ie
   - name: HealthConnect
     url: https://healthconnect.ie/
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
 

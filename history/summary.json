@@ -25,17 +25,17 @@
     "url": "https://www.cairde.ie",
     "icon": "https://favicons.githubusercontent.com/www.cairde.ie",
     "slug": "cairde",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4166,
-    "timeDay": 6295,
-    "timeWeek": 9228,
-    "timeMonth": 7519,
-    "timeYear": 4166,
+    "time": 4169,
+    "timeDay": 5643,
+    "timeWeek": 9005,
+    "timeMonth": 7470,
+    "timeYear": 4169,
     "dailyMinutesDown": {
       "2021-03-04": 23
     }

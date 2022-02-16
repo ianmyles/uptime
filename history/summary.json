@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
-    "timeDay": 228,
-    "timeWeek": 261,
-    "timeMonth": 292,
+    "timeDay": 200,
+    "timeWeek": 254,
+    "timeMonth": 293,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2021-02-16": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cairde",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4279,
-    "timeDay": 2979,
-    "timeWeek": 3630,
-    "timeMonth": 4286,
-    "timeYear": 4484,
+    "time": 4288,
+    "timeDay": 8141,
+    "timeWeek": 4306,
+    "timeMonth": 4404,
+    "timeYear": 4498,
     "dailyMinutesDown": {
       "2021-03-04": 23
     }
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1137,
-    "timeDay": 1005,
-    "timeWeek": 1002,
-    "timeMonth": 1030,
-    "timeYear": 1136,
+    "timeDay": 1087,
+    "timeWeek": 1010,
+    "timeMonth": 1029,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   },
   {
@@ -69,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 341,
-    "timeDay": 249,
+    "timeDay": 216,
     "timeWeek": 256,
     "timeMonth": 262,
     "timeYear": 336,

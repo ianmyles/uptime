@@ -1,7 +1,7 @@
 url: https://www.cairde.ie
-status: up
-code: 200
-responseTime: 4090
-lastUpdated: 2022-02-20T23:02:19.414Z
+status: down
+code: 500
+responseTime: 424
+lastUpdated: 2022-02-21T08:46:11.959Z
 startTime: Mon Dec 28 2020 19:15:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

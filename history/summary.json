@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 188,
-    "timeWeek": 209,
-    "timeMonth": 254,
+    "time": 346,
+    "timeDay": 424,
+    "timeWeek": 243,
+    "timeMonth": 257,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4269,
-    "timeDay": 4516,
-    "timeWeek": 4219,
-    "timeMonth": 4010,
-    "timeYear": 4531,
-    "dailyMinutesDown": {
-      "2021-03-04": 23
-    }
+    "time": 4267,
+    "timeDay": 3593,
+    "timeWeek": 4101,
+    "timeMonth": 3979,
+    "timeYear": 4535,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HealthConnect",
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1131,
-    "timeDay": 1045,
-    "timeWeek": 946,
-    "timeMonth": 1002,
-    "timeYear": 1133,
+    "timeDay": 828,
+    "timeWeek": 951,
+    "timeMonth": 990,
+    "timeYear": 1132,
     "dailyMinutesDown": {}
   },
   {
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 338,
-    "timeDay": 235,
-    "timeWeek": 323,
-    "timeMonth": 270,
+    "time": 339,
+    "timeDay": 387,
+    "timeWeek": 318,
+    "timeMonth": 272,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2021-03-15": 208

@@ -32,7 +32,7 @@
     "timeDay": 4481,
     "timeWeek": 4481,
     "timeMonth": 4481,
-    "timeYear": 5063,
+    "timeYear": 5036,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
+    "timeDay": 351,
+    "timeWeek": 351,
+    "timeMonth": 351,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-22": 0
+    }
   }
 ]

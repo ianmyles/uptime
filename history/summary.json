@@ -22,18 +22,20 @@
     "url": "https://www.cairde.ie",
     "icon": "https://icons.duckduckgo.com/ip3/www.cairde.ie.ico",
     "slug": "cairde",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4911,
-    "timeDay": 4235,
-    "timeWeek": 3878,
-    "timeMonth": 3878,
-    "timeYear": 5000,
-    "dailyMinutesDown": {}
+    "time": 4903,
+    "timeDay": 2361,
+    "timeWeek": 3596,
+    "timeMonth": 3596,
+    "timeYear": 4986,
+    "dailyMinutesDown": {
+      "2023-06-26": 0
+    }
   },
   {
     "name": "HealthConnect",

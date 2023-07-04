@@ -22,19 +22,19 @@
     "url": "https://www.cairde.ie",
     "icon": "https://icons.duckduckgo.com/ip3/www.cairde.ie.ico",
     "slug": "cairde",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4945,
-    "timeDay": 14531,
-    "timeWeek": 7073,
-    "timeMonth": 4954,
+    "time": 4947,
+    "timeDay": 11393,
+    "timeWeek": 6895,
+    "timeMonth": 4960,
     "timeYear": 5052,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 9
     }
   },
   {

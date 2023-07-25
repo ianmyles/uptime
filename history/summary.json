@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 175,
-    "timeWeek": 181,
-    "timeMonth": 227,
+    "timeDay": 208,
+    "timeWeek": 188,
+    "timeMonth": 224,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "cairde",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4899,
-    "timeDay": 3072,
-    "timeWeek": 3445,
-    "timeMonth": 4239,
-    "timeYear": 4903,
-    "dailyMinutesDown": {
-      "2023-07-24": 11
-    }
+    "time": 4897,
+    "timeDay": 2811,
+    "timeWeek": 3451,
+    "timeMonth": 4217,
+    "timeYear": 4904,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HealthConnect",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 987,
-    "timeWeek": 1006,
-    "timeMonth": 1037,
+    "time": 1053,
+    "timeDay": 1073,
+    "timeWeek": 1017,
+    "timeMonth": 1033,
     "timeYear": 1063,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 416,
-    "timeWeek": 390,
-    "timeMonth": 304,
+    "timeDay": 274,
+    "timeWeek": 366,
+    "timeMonth": 310,
     "timeYear": 311,
     "dailyMinutesDown": {}
   }

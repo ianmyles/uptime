@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 126,
-    "timeWeek": 754,
-    "timeMonth": 509,
-    "timeYear": 342,
+    "timeDay": 85,
+    "timeWeek": 193,
+    "timeMonth": 507,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2023-08-20": 17
     }
@@ -26,17 +26,16 @@
     "slug": "cairde",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 4723,
-    "timeDay": 3224,
-    "timeWeek": 4134,
-    "timeMonth": 3687,
-    "timeYear": 4669,
+    "time": 4721,
+    "timeDay": 3140,
+    "timeWeek": 4054,
+    "timeMonth": 3615,
+    "timeYear": 4670,
     "dailyMinutesDown": {
-      "2023-08-27": 9,
       "2023-08-02": 26,
       "2023-07-31": 25
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1064,
-    "timeDay": 969,
-    "timeWeek": 1079,
-    "timeMonth": 1134,
+    "timeDay": 1133,
+    "timeWeek": 1076,
+    "timeMonth": 1141,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2023-08-09": 16
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 409,
-    "timeWeek": 285,
+    "time": 298,
+    "timeDay": 424,
+    "timeWeek": 283,
     "timeMonth": 302,
-    "timeYear": 304,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]

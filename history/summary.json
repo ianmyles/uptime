@@ -4,11 +4,11 @@
     "url": "https://www.ianmyles.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ianmyles.com.ico",
     "slug": "ian-myles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 223,
@@ -16,7 +16,7 @@
     "timeMonth": 493,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-09-01": 9,
+      "2023-09-01": 0,
       "2023-08-20": 17
     }
   },

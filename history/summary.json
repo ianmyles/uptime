@@ -4,18 +4,19 @@
     "url": "https://www.ianmyles.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ianmyles.com.ico",
     "slug": "ian-myles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 315,
+    "time": 316,
     "timeDay": 290,
     "timeWeek": 164,
     "timeMonth": 503,
     "timeYear": 339,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2023-08-20": 17
     }
   },
@@ -67,17 +68,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 203,
     "timeWeek": 339,
     "timeMonth": 313,
     "timeYear": 305,
-    "dailyMinutesDown": {
-      "2023-09-01": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 174,
-    "timeWeek": 194,
-    "timeMonth": 244,
-    "timeYear": 246,
+    "time": 260,
+    "timeDay": 330,
+    "timeWeek": 200,
+    "timeMonth": 254,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2024-03-16": 17
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cairde.ie.ico",
     "slug": "cairde",
     "status": "up",
-    "uptime": "95.37%",
+    "uptime": "95.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "82.76%",
-    "time": 1566,
-    "timeDay": 527,
-    "timeWeek": 702,
-    "timeMonth": 763,
+    "uptimeYear": "82.94%",
+    "time": 1558,
+    "timeDay": 809,
+    "timeWeek": 752,
+    "timeMonth": 779,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2024-09-18": 18,
@@ -97,9 +97,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 810,
       "2023-09-25": 1063,
-      "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-24": 1440
     }
   },
   {
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1047,
-    "timeWeek": 947,
-    "timeMonth": 983,
-    "timeYear": 1028,
+    "time": 1043,
+    "timeDay": 1444,
+    "timeWeek": 1014,
+    "timeMonth": 1005,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 333,
-    "timeDay": 438,
-    "timeWeek": 448,
-    "timeMonth": 353,
-    "timeYear": 347,
+    "time": 332,
+    "timeDay": 140,
+    "timeWeek": 410,
+    "timeMonth": 341,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2024-04-26": 20,
       "2024-01-10": 120,

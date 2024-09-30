@@ -29,7 +29,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "52.24%",
     "uptimeMonth": "88.97%",
-    "uptimeYear": "83.75%",
+    "uptimeYear": "83.90%",
     "time": 1495,
     "timeDay": 579,
     "timeWeek": 697,
@@ -102,18 +102,20 @@
     "url": "https://healthconnect.ie/",
     "icon": "https://icons.duckduckgo.com/ip3/healthconnect.ie.ico",
     "slug": "health-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1041,
-    "timeDay": 984,
-    "timeWeek": 974,
-    "timeMonth": 1016,
-    "timeYear": 1025,
-    "dailyMinutesDown": {}
+    "timeDay": 800,
+    "timeWeek": 929,
+    "timeMonth": 1003,
+    "timeYear": 1024,
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   },
   {
     "name": "Hacker News",
